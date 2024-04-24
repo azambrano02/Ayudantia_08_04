@@ -28,4 +28,6 @@ public abstract class Texto {
         this.año = año;
         this.ediciones = new ArrayList<>();
     }
+
 }
+
